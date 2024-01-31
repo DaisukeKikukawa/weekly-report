@@ -2,17 +2,25 @@
 学習記録用のリポジトリーになります
 
 ## 目標
-バックエンドエンジニアとして自社開発企業に内定をもらう
+バックエンドエンジニアとして開発経験を積むことができるWeb系の企業に内定をもらう
 
 ## マイルストーン
-- 2023/9/18〜2023/10/16
+- 2024/1/31
     - 1on1ミーティング(1回目)
-    - Recursionバックエンドプロジェクト4まで完了(※期間内に5がリリースされた場合は着手する)
-- 2023/10/17〜2023/11/30
-    - 1on1ミーティング(2回目)
-    - フレームワークの学習
-    - ポートフォリオ作成
-    - レジュメ作成
-    - 企業のリサーチ
-- 2023/12/1〜2023/12/31
-    - 転職活動
+        - Milestone 1 (2~3 months):
+            - Intermediate CS,
+            - Backend Project 1,
+            - Backend Project 2,
+            - Backend Project 2 Team Dev (Optional),
+            - Frontend Project 1 + Frontend Project 4,
+            - Advanced CS
+
+        - Milestone 2 (2~3 Months):
+            - OOP,
+            - Database,
+            - Backend Project 3,
+            - Backend Project 4
+
+        - Milestone 3 (2~3 Months):
+            - Backend Project 5,
+            - Framework Team Dev Portfolio
